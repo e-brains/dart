@@ -1,6 +1,6 @@
-# flutter_study01
+# flutter_study06
 
-A new Flutter application.
+A new Flutter project.
 
 ## Getting Started
 
