@@ -81,7 +81,7 @@ class MySecondPage extends StatelessWidget {
             // second page는 Navigator stack에서 pop하여 자기 자신을 제거하면 되기
             // 때문에 간단하다.
             // 여기서 firts page로 이동할 때는 second page로 이동하는 것이 아니라
-            // firts page 위에 쌓여 있던 second page를 제거함으로써 이동하는 효과를
+            // first page 위에 쌓여 있던 second page를 제거함으로써 이동하는 효과를
             // 내는 것이다.
             Navigator.pop(context);
           },
