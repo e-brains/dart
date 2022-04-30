@@ -1,4 +1,4 @@
-# flutter_study07
+# onboarding_project
 
 A new Flutter project.
 
